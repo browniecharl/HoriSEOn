@@ -1,0 +1,40 @@
+h1 {text-align: center;
+}
+
+.p-red{
+    color: red;
+}
+.p-blue{
+    color: blue;
+}
+.p-green{
+    color: green;
+}
+.p-big{
+    font-size: xx-large;
+}
+.p-tiny{
+    font-size: smaller;
+}
+.p-cent{
+    text-align: center;
+}
+.p-bold{
+    font-weight: bold;
+}
+.p-font{
+    font-family: sans-serif;
+}
+.p-bob{
+    font-size: x-large;
+    color: orange;
+    font-weight: bold;
+}
+.styledFont{
+    color: limegreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+img{
+    width: 200px;
+    border: 10px solid black;
+}
