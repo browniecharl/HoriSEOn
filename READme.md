@@ -1,4 +1,4 @@
-# Horiseon SEO
+# Horiseon Social Solution Services
 ![](./assets/images/Screen%20Shot%202022-03-12%20at%205.47.54%20PM.png)
 
 ## Objective
