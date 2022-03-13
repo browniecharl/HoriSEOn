@@ -9,8 +9,13 @@ At Horiseon we offer services that will:
 * Increase organic traffic
 
 ## Built with
-*HTML
-*CSS
+* HTML
+* CSS
 
 ## Website
 https://browniecharl.github.io/HoriSEOn/
+
+## Contribution
+Made by Robert Velez
+
+### ©️2022 Horiseon SEO
