@@ -18,4 +18,4 @@ https://browniecharl.github.io/HoriSEOn/
 ## Contribution
 Made by Robert Velez
 
-### ©️2022 Horiseon SEO
+### ©️2022 Horiseon Social Solution Services
